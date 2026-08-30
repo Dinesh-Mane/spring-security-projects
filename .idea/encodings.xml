@@ -9,5 +9,6 @@
     <file url="file://$PROJECT_DIR$/06-implement-PasswordEncoder/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-compromised-password-checker/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/08-user-authentication-projects/01-using-spring-default-db-tables/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-user-authentication-projects/02-using-custom-db-tables/src/main/java" charset="UTF-8" />
   </component>
 </project>

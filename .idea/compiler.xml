@@ -2,10 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="02-using-custom-db-tables" />
         <module name="04-customize-http-requests-authorization" />
         <module name="01-using-spring-default-db-tables" />
         <module name="03-project-with-secured-rest-api-endpoints" />
@@ -22,6 +24,7 @@
       <module name="01-base-project-without-security" options="-parameters" />
       <module name="01-using-spring-default-db-tables" options="-parameters" />
       <module name="02-project-with-default-spring-security-configs" options="-parameters" />
+      <module name="02-using-custom-db-tables" options="-parameters" />
       <module name="03-project-with-secured-rest-api-endpoints" options="-parameters" />
       <module name="04-customize-http-requests-authorization" options="-parameters" />
       <module name="05-configure-users-using-InMemoryUserDetailsManager" options="-parameters" />

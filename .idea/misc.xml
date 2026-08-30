@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/06-implement-PasswordEncoder/pom.xml" />
         <option value="$PROJECT_DIR$/07-compromised-password-checker/pom.xml" />
         <option value="$PROJECT_DIR$/08-user-authentication-projects/01-using-spring-default-db-tables/pom.xml" />
+        <option value="$PROJECT_DIR$/08-user-authentication-projects/02-using-custom-db-tables/pom.xml" />
       </list>
     </option>
   </component>
