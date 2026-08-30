@@ -11,6 +11,7 @@
         <module name="01-base-project-without-security" />
         <module name="05-configure-users-using-InMemoryUserDetailsManager" />
         <module name="03-project-with-secured-rest-api-endpoints" />
+        <module name="06-implement-PasswordEncoder" />
       </profile>
     </annotationProcessing>
   </component>
@@ -21,6 +22,7 @@
       <module name="03-project-with-secured-rest-api-endpoints" options="-parameters" />
       <module name="04-customize-http-requests-authorization" options="-parameters" />
       <module name="05-configure-users-using-InMemoryUserDetailsManager" options="-parameters" />
+      <module name="06-implement-PasswordEncoder" options="-parameters" />
     </option>
   </component>
 </project>

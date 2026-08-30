@@ -6,5 +6,6 @@
     <file url="file://$PROJECT_DIR$/03-project-with-secured-rest-api-endpoints/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/04-customize-http-requests-authorization/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/05-configure-users-using-InMemoryUserDetailsManager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-implement-PasswordEncoder/src/main/java" charset="UTF-8" />
   </component>
 </project>
