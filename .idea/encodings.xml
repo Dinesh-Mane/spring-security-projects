@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/01-base-project-without-security/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/02-project-with-default-spring-security-configs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-project-with-secured-rest-api-endpoints/src/main/java" charset="UTF-8" />
   </component>
 </project>

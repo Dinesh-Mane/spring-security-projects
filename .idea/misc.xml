@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/spring-security-project/pom.xml" />
         <option value="$PROJECT_DIR$/02-project-with-default-spring-security-configs/pom.xml" />
         <option value="$PROJECT_DIR$/01-base-project-without-security/pom.xml" />
+        <option value="$PROJECT_DIR$/03-project-with-secured-rest-api-endpoints/pom.xml" />
       </list>
     </option>
   </component>
