@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/08-user-authentication-projects/02-using-custom-db-tables/pom.xml" />
         <option value="$PROJECT_DIR$/08-user-authentication-and-authorization/01-using-spring-default-db-tables/pom.xml" />
         <option value="$PROJECT_DIR$/08-user-authentication-and-authorization/02-using-custom-db-tables/pom.xml" />
+        <option value="$PROJECT_DIR$/09-new-user-registration/pom.xml" />
       </list>
     </option>
   </component>
