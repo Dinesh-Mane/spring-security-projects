@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/01-base-project-without-security/pom.xml" />
         <option value="$PROJECT_DIR$/03-project-with-secured-rest-api-endpoints/pom.xml" />
         <option value="$PROJECT_DIR$/04-customize-http-requests-authorization/pom.xml" />
+        <option value="$PROJECT_DIR$/05-configure-users-using-InMemoryUserDetailsManager/pom.xml" />
       </list>
     </option>
   </component>
