@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/04-customize-http-requests-authorization/pom.xml" />
         <option value="$PROJECT_DIR$/05-configure-users-using-InMemoryUserDetailsManager/pom.xml" />
         <option value="$PROJECT_DIR$/06-implement-PasswordEncoder/pom.xml" />
+        <option value="$PROJECT_DIR$/07-compromised-password-checker/pom.xml" />
       </list>
     </option>
   </component>
