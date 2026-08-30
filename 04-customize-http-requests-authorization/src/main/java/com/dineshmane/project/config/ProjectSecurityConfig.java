@@ -13,7 +13,7 @@ public class ProjectSecurityConfig {
     SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
 
         http.authorizeHttpRequests(request-> request
-                .requestMatchers("/welcome", "/contact", "/notices").permitAll()
+                .requestMatchers("/welcome", "/contact", "/notices", "/error").permitAll()
                 .requestMatchers("/myAccount", "/myLoans", "/myBalance", "/myCards").authenticated()
         );
 
