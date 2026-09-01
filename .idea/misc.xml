@@ -21,6 +21,9 @@
         <option value="$PROJECT_DIR$/11-environment-based-security-with-profiles/pom.xml" />
         <option value="$PROJECT_DIR$/12-allow-non-prod-users-to-use-any-password/pom.xml" />
         <option value="$PROJECT_DIR$/13-accept-only-HTTPS-traffic-for-prod-profile/pom.xml" />
+        <option value="$PROJECT_DIR$/14-handling-authentication-exception/pom.xml" />
+        <option value="$PROJECT_DIR$/08-database-backed-authentication-with-JdbcUserDetailsManager/01-using-spring-default-db-tables/pom.xml" />
+        <option value="$PROJECT_DIR$/08-database-backed-authentication-with-JdbcUserDetailsManager/02-using-custom-db-tables/pom.xml" />
       </list>
     </option>
   </component>

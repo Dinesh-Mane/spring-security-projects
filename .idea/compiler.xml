@@ -7,10 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="02-using-custom-db-tables" />
         <module name="13-accept-only-HTTPS-traffic-for-prod-profile" />
+        <module name="02-using-custom-db-tables" />
         <module name="09-new-user-registration" />
         <module name="03-project-with-secured-rest-api-endpoints" />
+        <module name="14-handling-authentication-exception" />
         <module name="07-compromised-password-checker" />
         <module name="01-base-project-without-security" />
         <module name="05-configure-users-using-InMemoryUserDetailsManager" />
@@ -40,6 +41,7 @@
       <module name="11-environment-based-security-with-profiles" options="-parameters" />
       <module name="12-allow-non-prod-users-to-use-any-password" options="-parameters" />
       <module name="13-accept-only-HTTPS-traffic-for-prod-profile" options="-parameters" />
+      <module name="14-handling-authentication-exception" options="-parameters" />
     </option>
   </component>
 </project>
