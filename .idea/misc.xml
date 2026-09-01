@@ -20,6 +20,7 @@
         <option value="$PROJECT_DIR$/10-custom-AuthenticationProvider/pom.xml" />
         <option value="$PROJECT_DIR$/11-environment-based-security-with-profiles/pom.xml" />
         <option value="$PROJECT_DIR$/12-allow-non-prod-users-to-use-any-password/pom.xml" />
+        <option value="$PROJECT_DIR$/13-accept-only-HTTPS-traffic-for-prod-profile/pom.xml" />
       </list>
     </option>
   </component>
