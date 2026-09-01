@@ -13,5 +13,6 @@
     <file url="file://$PROJECT_DIR$/09-new-user-registration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/10-custom-AuthenticationProvider/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/11-environment-based-security-with-profiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12-allow-non-prod-users-to-use-any-password/src/main/java" charset="UTF-8" />
   </component>
 </project>
