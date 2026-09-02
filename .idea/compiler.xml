@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="13-accept-only-HTTPS-traffic-for-prod-profile" />
         <module name="02-using-custom-db-tables" />
+        <module name="15-handling-access-denied-exception" />
         <module name="09-new-user-registration" />
         <module name="03-project-with-secured-rest-api-endpoints" />
         <module name="14-handling-authentication-exception" />
@@ -42,6 +43,7 @@
       <module name="12-allow-non-prod-users-to-use-any-password" options="-parameters" />
       <module name="13-accept-only-HTTPS-traffic-for-prod-profile" options="-parameters" />
       <module name="14-handling-authentication-exception" options="-parameters" />
+      <module name="15-handling-access-denied-exception" options="-parameters" />
     </option>
   </component>
 </project>

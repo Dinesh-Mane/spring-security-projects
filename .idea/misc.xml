@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/14-handling-authentication-exception/pom.xml" />
         <option value="$PROJECT_DIR$/08-database-backed-authentication-with-JdbcUserDetailsManager/01-using-spring-default-db-tables/pom.xml" />
         <option value="$PROJECT_DIR$/08-database-backed-authentication-with-JdbcUserDetailsManager/02-using-custom-db-tables/pom.xml" />
+        <option value="$PROJECT_DIR$/15-handling-access-denied-exception/pom.xml" />
       </list>
     </option>
   </component>
