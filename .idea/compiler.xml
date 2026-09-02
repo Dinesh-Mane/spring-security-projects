@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="13-accept-only-HTTPS-traffic-for-prod-profile" />
         <module name="02-using-custom-db-tables" />
+        <module name="18-listening-authentication-events" />
         <module name="15-handling-access-denied-exception" />
         <module name="09-new-user-registration" />
         <module name="03-project-with-secured-rest-api-endpoints" />
@@ -48,6 +49,7 @@
       <module name="15-handling-access-denied-exception" options="-parameters" />
       <module name="16-session-timeout-and-invalid-session-configs" options="-parameters" />
       <module name="17-limit-concurrent-user-sessions" options="-parameters" />
+      <module name="18-listening-authentication-events" options="-parameters" />
     </option>
   </component>
 </project>

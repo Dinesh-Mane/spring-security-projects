@@ -27,6 +27,7 @@
         <option value="$PROJECT_DIR$/15-handling-access-denied-exception/pom.xml" />
         <option value="$PROJECT_DIR$/16-session-timeout-and-invalid-session-configs/pom.xml" />
         <option value="$PROJECT_DIR$/17-limit-concurrent-user-sessions/pom.xml" />
+        <option value="$PROJECT_DIR$/18-listening-authentication-events/pom.xml" />
       </list>
     </option>
   </component>
