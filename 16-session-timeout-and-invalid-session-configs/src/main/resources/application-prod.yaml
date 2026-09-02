@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: ${APP_NAME:spring-security-project}
+
+  config:
+    activate:
+      on-profile: prod
+
+  datasource:
+    url: jdbc:mysql://${DB_HOST:localhost}:${DB_PORT:3306}/${DB_NAME:spring-security-db}
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:root}
+
+  jpa:
+    show-sql: ${JPA_SHOW_SQL:false}
+    properties:
+      hibernate:
+        format_sql: ${HIBERNATE_FORMAT_SQL:false}
+
+logging:
+  level:
+    org.springframework.security: ${SPRING_SECURITY_LOG_LEVEL:ERROR}
+
+server:
+  servlet:
+    session:
+      timeout: ${SESSION_TIMEOUT:10m}

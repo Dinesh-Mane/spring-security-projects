@@ -17,5 +17,7 @@
     <file url="file://$PROJECT_DIR$/13-accept-only-HTTPS-traffic-for-prod-profile/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/14-handling-authentication-exception/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/15-handling-access-denied-exception/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16-session-timeout-and-invalid-session-configs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17-limit-concurrent-user-sessions/src/main/java" charset="UTF-8" />
   </component>
 </project>

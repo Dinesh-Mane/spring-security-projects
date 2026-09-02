@@ -16,8 +16,10 @@
         <module name="07-compromised-password-checker" />
         <module name="01-base-project-without-security" />
         <module name="05-configure-users-using-InMemoryUserDetailsManager" />
+        <module name="17-limit-concurrent-user-sessions" />
         <module name="12-allow-non-prod-users-to-use-any-password" />
         <module name="06-implement-PasswordEncoder" />
+        <module name="16-session-timeout-and-invalid-session-configs" />
         <module name="04-customize-http-requests-authorization" />
         <module name="01-using-spring-default-db-tables" />
         <module name="10-custom-AuthenticationProvider" />
@@ -44,6 +46,8 @@
       <module name="13-accept-only-HTTPS-traffic-for-prod-profile" options="-parameters" />
       <module name="14-handling-authentication-exception" options="-parameters" />
       <module name="15-handling-access-denied-exception" options="-parameters" />
+      <module name="16-session-timeout-and-invalid-session-configs" options="-parameters" />
+      <module name="17-limit-concurrent-user-sessions" options="-parameters" />
     </option>
   </component>
 </project>
