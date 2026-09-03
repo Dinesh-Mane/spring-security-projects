@@ -20,5 +20,6 @@
     <file url="file://$PROJECT_DIR$/16-session-timeout-and-invalid-session-configs/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/17-limit-concurrent-user-sessions/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/18-listening-authentication-events/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/19-form-login-configs-for-mvc-and-monolithic-apps/mane-academy/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -2,7 +2,11 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
+      <profile default="true" name="Default" enabled="true">
+        <processorPath>
+          <entry name="$PROJECT_DIR$/19-form-login-configs-for-mvc-and-monolithic-apps/mane-academy" />
+        </processorPath>
+      </profile>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -15,6 +19,7 @@
         <module name="03-project-with-secured-rest-api-endpoints" />
         <module name="14-handling-authentication-exception" />
         <module name="07-compromised-password-checker" />
+        <module name="mane-academy" />
         <module name="01-base-project-without-security" />
         <module name="05-configure-users-using-InMemoryUserDetailsManager" />
         <module name="17-limit-concurrent-user-sessions" />
@@ -50,6 +55,7 @@
       <module name="16-session-timeout-and-invalid-session-configs" options="-parameters" />
       <module name="17-limit-concurrent-user-sessions" options="-parameters" />
       <module name="18-listening-authentication-events" options="-parameters" />
+      <module name="mane-academy" options="-parameters" />
     </option>
   </component>
 </project>
